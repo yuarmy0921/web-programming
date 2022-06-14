@@ -1,0 +1,28 @@
+body {
+	background-color: pink;
+}
+
+.flex-container {
+	display: flex;
+}
+
+#user_setting {
+	justify-content: center;
+	height: 40px;
+	width: auto;
+	margin: 0px;
+}
+
+#user_setting section {
+	;
+	margin: 0px;
+
+
+}
+
+.option {
+	width: 10px;
+	height: 10px;
+}
+
+
